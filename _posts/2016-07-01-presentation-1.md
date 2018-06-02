@@ -1,6 +1,6 @@
 ---
 title: Presentation 1
-layout: post
+layout: post0
 permalink: /presentation-1/
 background: '#0a5'
 slides:
