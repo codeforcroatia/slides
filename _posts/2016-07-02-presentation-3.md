@@ -1,7 +1,7 @@
 ---
 title: Presentation 3
 layout: post
-permalink: /presentation-3/
+permalink: /meetup28/
 category: presentation
  
 slides:
