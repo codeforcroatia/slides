@@ -5,15 +5,19 @@ permalink: /presentation-3/
 category: presentation
  
 slides:
- - title: Slide 1
+ - title: PDF CEE 2018
    slide-data: Day 1 - Open Government and Public Spending (satellite event)<br>
                Day 2 and 3 - Future for All (conference)<br>
                Day 4 - Festival of Civic Tech for Democracy (satellite event)<br>
                Post-conference materials, <a href="https://pdfcee.pl/en/post-conference-materials/" target="_blank">pdfcee.pl</a>
    background: "#e74c3c"
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Fun fact
+   slide-data: Even if your picture isn't on the Internet, computerized facial recognition makes it virtually impossible to keep your "faceprint" private.
+               <br>
+               Imagine only that in the image small as <strong>6*7 pixel</strong> face can be recognized.
+               <br>
+               <img width="178" height="238" data-src="{{site.baseurl}}/images/meetup28/AdamRHarveyRetailSurveillance_RetailCountersurveillance(33c3).jpg" alt="6px by 7px">
    background: '#f1c40f'
    
  - title: Slide 3
