@@ -2,7 +2,7 @@
 title: Presentation 2
 layout: post
 permalink: /presentation-2/
-
+category: presentation
  
 slides:
  - title: Slide 1

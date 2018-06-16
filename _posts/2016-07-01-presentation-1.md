@@ -3,6 +3,7 @@ title: Presentation 1
 layout: post
 permalink: /presentation-1/
 background: '#0a5'
+category: presentation
 slides:
  - title: Slide 1
    slide-data: This is first slide

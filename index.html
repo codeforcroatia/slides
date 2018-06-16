@@ -31,7 +31,7 @@ layout: compress
  <p class="head-text">What if you can manage all your presentations from one place?!</p>
  
 {% for post in site.posts %}
-  {% for otag in post.categories %}
+  {% for otag in post.category %}
     {% if otag != 'template' %}                            
                                
     <a target="_blank" class="link" href="{{site.baseurl}}{{post.url}}"> 
