@@ -3,6 +3,7 @@ title: Serif Theme
 layout: post
 permalink: /serif/
 theme: serif
+category: template
  
 slides:
  - title: Slide 1

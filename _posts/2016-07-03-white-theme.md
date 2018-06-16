@@ -3,6 +3,7 @@ title: White Theme
 layout: post
 permalink: /white/
 theme: white
+category: template
  
 slides:
  - title: Slide 1

@@ -3,6 +3,7 @@ title: Night Theme
 layout: post
 permalink: /night/
 theme: night
+category: template
  
 slides:
  - title: Slide 1

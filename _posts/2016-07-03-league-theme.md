@@ -3,6 +3,7 @@ title: League Theme
 layout: post
 permalink: /league/
 theme: league
+category: template
  
 slides:
  - title: Slide 1

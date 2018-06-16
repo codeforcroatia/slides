@@ -3,6 +3,7 @@ title: Simple Theme
 layout: post
 permalink: /simple/
 theme: simple
+category: template
  
 slides:
  - title: Slide 1

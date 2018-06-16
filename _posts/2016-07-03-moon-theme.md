@@ -3,6 +3,7 @@ title: Moon Theme
 layout: post
 permalink: /moon/
 theme: moon
+category: template
  
 slides:
  - title: Slide 1

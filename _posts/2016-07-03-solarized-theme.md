@@ -3,6 +3,7 @@ title: Solarized Theme
 layout: post
 permalink: /solarized/
 theme: solarized
+category: template
  
 slides:
  - title: Slide 1
