@@ -15,13 +15,34 @@ slides:
  - title: Fun fact
    slide-data: Even if your picture isn't on the Internet, computerized facial recognition makes it virtually impossible to keep your "faceprint" private.
                <br>
-               Imagine only that in the image small as <strong>6*7 pixel</strong> face can be recognized.
+               Imagine only that in the image small as <strong>6 by 7 pixel</strong> face can be recognized.
                <br>
-               <img width="178" height="238" data-src="{{site.baseurl}}/images/meetup28/AdamRHarveyRetailSurveillance_RetailCountersurveillance(33c3).jpg" alt="6px by 7px">
-   background: '#f1c40f'
+               <img width="178" height="238" data-src="{{ site.baseurl }}/images/meetup28/AdamRHarveyRetailSurveillance_RetailCountersurveillance(33c3).jpg" alt="6px by 7px">
+   background: 'ffffff'
    
  - title: Slide 3
    slide-data: This is third slide
+               <section>
+                    <h2>Vertical Slides</h2>
+                    <p>Slides can be nested inside of each other.</p>
+                    <p>Use the <em>Space</em> key to navigate through all slides.</p>
+                    <br>
+                    <a href="#" class="navigate-down">
+                        <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
+                    </a>
+                </section>
+                <section>
+                    <h2>Basement Level 1</h2>
+                    <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+                </section>
+                <section>
+                    <h2>Basement Level 2</h2>
+                    <p>That's it, time to go back up.</p>
+                    <br>
+                    <a href="#/2">
+                        <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
+                    </a>
+                </section>
    background: '#9b59b6'
    
  - title: Slide 4
@@ -39,6 +60,10 @@ slides:
  - title: Slide 7
    slide-data: This is seventh slide
    background: '#e67e22'
+
+ - title: Slide 8
+   slide-data: This is 8th slide
+   background: '#f1c40f'
 ---
 
 {% for slide in page.slides %}
