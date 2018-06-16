@@ -3,6 +3,7 @@ title: Why WebJeda Slides?
 layout: post
 permalink: /why/
 background: '#0a5'
+category: info
 
 slides:
  - title: Why use webjeda slides?
