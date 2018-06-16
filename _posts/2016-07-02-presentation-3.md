@@ -6,7 +6,10 @@ category: presentation
  
 slides:
  - title: Slide 1
-   slide-data: This is first slide
+   slide-data: Day 1 - Open Government and Public Spending (satellite event)<br>
+               Day 2 and 3 - Future for All (conference)<br>
+               Day 4 - Festival of Civic Tech for Democracy (satellite event)<br>
+               Post-conference materials, <a href="https://pdfcee.pl/en/post-conference-materials/" target="_blank">pdfcee.pl</a>
    background: "#e74c3c"
      
  - title: Slide 2
