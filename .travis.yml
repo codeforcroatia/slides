@@ -3,3 +3,11 @@ node_js:
   - 4.1.1
 before_script:
   - npm install -g grunt-cli
+# blacklist branches
+branches:
+  except:
+    - master
+# whitelist branches
+branches:
+  only:
+    - gh-pages
